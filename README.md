@@ -75,3 +75,11 @@ plt.show() #displays the boxplot
 ### OUTPUT
 
 ![image](https://github.com/user-attachments/assets/302f96e8-d356-4008-b07f-756bc95291bb)
+
+### Library used
+* Pandas
+* Matplotlib.pyplot
+* Seaborn
+
+### Author
+Joshua Nariz
